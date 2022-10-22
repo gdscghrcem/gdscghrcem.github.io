@@ -39,7 +39,7 @@ your image to our website.
 ```bash
   git checkout -b <name-of-new-branch>
 ```
-For Ubuntu User's
+⚠️ Only for Ubuntu User's
 
 ```bash
   git checkout -b name-of-new-branch
@@ -81,7 +81,11 @@ nothing to commit, working tree clean
 ```bash
   git push origin <name-of-your-branch>
 ```
+⚠️ Only for Ubuntu User's
 
+```bash
+  git push origin name-of-your-branch
+```
 or
 
 ```bash

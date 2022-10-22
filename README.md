@@ -39,6 +39,11 @@ your image to our website.
 ```bash
   git checkout -b <name-of-new-branch>
 ```
+For Ubuntu User's
+
+```bash
+  git checkout -b name-of-new-branch
+```
 
 - Open the `assets` folder and paste you 1:1 ratio image there.
 - Then open the `index.html` file and paste the path of the image alloted to you. 
